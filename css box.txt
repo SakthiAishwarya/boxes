@@ -4,7 +4,8 @@
 <title>Sakthi Aishwarya</title>
 <br>
 <br>
-<center><h3><b>Our Menu</h3></b></center>
+<center><h3><b>Our Menu</h3></b>
+<body>
 <style>
 div {
   border: 1px solid gray;
@@ -30,26 +31,26 @@ div.fixed {
 
 div {
   height: 180px;
-  width: 45%;
+  width: 300px;
   background-color: powderblue;
 }
 div.relative {
   position: relative;
-  left: 340px;
+  left: 350px;
   border: 3px solid black;
 }
 div.absolute {
   position: absolute;
-  bottom: 212px;
-  left: 710px;
-  width: 45%;
+  bottom: 740px;
+  left: 700px;
+  width: 300px;
   height: 180px;
   border: 3px solid black;
 }
 
 </style>
 </head>
-<body>
+</center>
 <br>
 <br>
 <br>
